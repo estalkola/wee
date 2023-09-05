@@ -5,3 +5,22 @@
     background-color: #e3aeff;
     border-radius: 40%;
 }
+
+body {
+    padding: 100px;
+}
+
+#loginform {
+    text-align: center;
+}
+
+#loginform input:nth-child(1) {
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+#greeting {
+    margin: 0 auto;
+    text-align: center;
+
+}
